@@ -8,7 +8,7 @@ dotenv.config();
 
 export default function Home() {
   return (
-    <div className="">
+    <div className="bg-slate-400">
       <TopicList />
       
     </div>
